@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**paulorodrigues07/paulorodrigues07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src = ".github/images/rick.gif" width = "290em" align = "right">
 
-Here are some ideas to get you started:
+### Oupa bão, 🖖
+### Eu sou o Paulo Rodrigues 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+🔭 Atualmente trabalho: UFSJ - Univesidade Federal de São João del Rei;
+
+👨‍🎓 Cursando: Engenharia da Computação na FUPAC - lafaiete ;
+
+🌱 Aprendizagem: 😅 Trabalhando nisso;
+
+🎒 Ferramentas principais: Putty, WSL, Visual Studio Code e GitHub;
+
+⚡ Curiosidade:;
+
+</div>
+
+---
+
+<div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=paulorodrigues07&count_private=true&show_icons=true&theme=dark" height= 180em/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorodrigues07&langs_count=8&theme=dark" height= 180em/>
+
+
+![Snake animation](https://github.com/paulorodrigues07/paulorodrigues07/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+  
+---
