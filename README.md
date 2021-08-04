@@ -22,8 +22,8 @@
 
 <div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=paulorodrigues07&count_private=true&show_icons=true&theme=dark" height= 180em/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorodrigues07&langs_count=8&theme=dark" height= 180em/>
+<img src="https://github-readme-stats.vercel.app/api?username=paulorodrigues07&count_private=true&show_icons=true&theme=dark" height= 150em/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorodrigues07&langs_count=8&theme=dark" height= 150em/>
 
 
 ![Snake animation](https://github.com/paulorodrigues07/paulorodrigues07/blob/output/github-contribution-grid-snake.svg)
