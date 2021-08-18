@@ -14,7 +14,7 @@
 
 🎒 Ferramentas principais: Putty, WSL, Visual Studio Code e GitHub;
 
-⚡ Curiosidade:;
+⚡ Curiosidade: A ideia de que o tempo não existe, sendo uma ilusão da mente ou criação do homem, não te exime das entregas atrasadas 😅;
 
 </div>
 
